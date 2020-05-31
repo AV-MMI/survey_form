@@ -61,6 +61,7 @@ input {
 }
 
 .submit-button {
+	margin-top: 1.5rem;
 	width: 30rem;
 	height: 4rem;
 	border-radius: 50px;
